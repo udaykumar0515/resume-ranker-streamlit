@@ -11,3 +11,4 @@ env/
 __pycache__/
 *.pyc
 .DS_Store
+PROJECT_FULL_DOC.md
